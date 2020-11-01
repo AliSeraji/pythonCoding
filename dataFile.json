@@ -1,0 +1,68 @@
+{
+    "ID": 0,
+    "InstrumentID": "IRO3FRBZ0001",
+    "InsCode": "58741071099161284",
+    "CIsin": "",
+    "BaseVolume": 1120000,
+    "AvgVolumeMonth": 0,
+    "AllVolume": 0,
+    "CapValue": "",
+    "Name": "فرابورس",
+    "Title": "فرابورس ايران",
+    "Status": "A",
+    "StatusDescription": "مجاز",
+    "EstimatedEPS": 1625,
+    "FirstPrice": 58000,
+    "LastPrice": 56374,
+    "CurrPrice": 56139,
+    "DiffCurrPrice": -4.9989,
+    "DiffLastPrice": -4.601222,
+    "CountTrade": 1417,
+    "Cost": 144628296038,
+    "Volume": 2565496,
+    "MinPrice": 56139,
+    "MaxPrice": 58900,
+    "MinValidPrice": 54549,
+    "MaxValidPrice": 60291,
+    "YesterdayPrice": 59093,
+    "InputMoney": -27174071968,
+    "Day": "",
+    "Flow": 2,
+    "CS": 67,
+    "C": {
+        "VolumeAskIndv": 2065451,
+        "VolumeAskNoneIndv": 500045,
+        "CountAskIndv": 694,
+        "CountAskNoneIndv": 2,
+        "VolumeBidIndv": 2547483,
+        "VolumeBidNoneIndv": 18013,
+        "CountBidIndv": 483,
+        "CountBidNoneIndv": 1
+    },
+    "Q": [{
+            "CountBuy": 1,
+            "VolBuy": 500,
+            "PriceBuy": 56139,
+            "CountBid": 275,
+            "VolBid": 983871,
+            "PriceBid": 56139
+        },
+        {
+            "CountBuy": 1,
+            "VolBuy": 60000,
+            "PriceBuy": 54559,
+            "CountBid": 2,
+            "VolBid": 609,
+            "PriceBid": 56200
+        },
+        {
+            "CountBuy": 1,
+            "VolBuy": 500,
+            "PriceBuy": 54550,
+            "CountBid": 2,
+            "VolBid": 8425,
+            "PriceBid": 56220
+        }
+    ],
+    "LastTime": "12:28:58"
+}
