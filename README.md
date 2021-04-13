@@ -15,3 +15,7 @@ Below are the resons why we have to use these libraries:
   2-We need Better-Arabic-Reshaper library because we need Persian letters to be connected to each other.
   
   3-We are good to go.
+  
+  ****
+  NOTE : Becareful when positioning texts.
+ 
