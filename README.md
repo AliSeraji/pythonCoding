@@ -1,8 +1,7 @@
-# pythonCoding
+# writing Persian On Image
 Simple codes to learn simple tasks.
 
-
-In this project you can easily learn how to write Persian text on images using python language.
+Simple way to write persian on image in python.
 
 The data is read from a json file to be written on the image.
 
