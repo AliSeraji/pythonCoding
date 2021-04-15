@@ -1,4 +1,4 @@
-# writing Persian on image
+# Writing Persian on Image
 Simple codes to learn simple tasks.
 
 Simple way to write persian on image in python.
